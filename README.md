@@ -2,7 +2,7 @@
 
 ## Summary
 
-The link to the dashboards and visualizations on Tableau Public is [here](https://public.tableau.com/app/profile/charlie.freeman6874/viz/CitibikeProject_16759957100090/Story)
+The link to the dashboards and visualizations on Tableau Public is [here](https://public.tableau.com/app/profile/charlie.freeman6874/viz/CitibikeProject_16759957100090/Story).
 In this project I am building dashboards and other visualizations using Tableau to relay information to city officials about the Citi Bike data from New York City.
 
 ## Tools
